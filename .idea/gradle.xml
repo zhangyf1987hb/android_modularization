@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/businessUser" />
+            <option value="$PROJECT_DIR$/businessplatform" />
+            <option value="$PROJECT_DIR$/uilogin" />
+            <option value="$PROJECT_DIR$/uilogin2" />
+            <option value="$PROJECT_DIR$/uiorder" />
+            <option value="$PROJECT_DIR$/uiplatform" />
+            <option value="$PROJECT_DIR$/utilimagedisplay" />
+            <option value="$PROJECT_DIR$/utillog" />
+            <option value="$PROJECT_DIR$/utilnetwork" />
+            <option value="$PROJECT_DIR$/utiltoast" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

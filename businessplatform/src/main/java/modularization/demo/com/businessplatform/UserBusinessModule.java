@@ -17,7 +17,6 @@ public interface UserBusinessModule {
 
         void onFailure();
 
-
     }
 
 

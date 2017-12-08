@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android_modularization.iml" filepath="$PROJECT_DIR$/android_modularization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/businessUser/businessUser.iml" filepath="$PROJECT_DIR$/businessUser/businessUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/businessplatform/businessplatform.iml" filepath="$PROJECT_DIR$/businessplatform/businessplatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uilogin/uilogin.iml" filepath="$PROJECT_DIR$/uilogin/uilogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uilogin2/uilogin2.iml" filepath="$PROJECT_DIR$/uilogin2/uilogin2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uiorder/uiorder.iml" filepath="$PROJECT_DIR$/uiorder/uiorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uiplatform/uiplatform.iml" filepath="$PROJECT_DIR$/uiplatform/uiplatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utilimagedisplay/utilimagedisplay.iml" filepath="$PROJECT_DIR$/utilimagedisplay/utilimagedisplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utillog/utillog.iml" filepath="$PROJECT_DIR$/utillog/utillog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utilnetwork/utilnetwork.iml" filepath="$PROJECT_DIR$/utilnetwork/utilnetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utiltoast/utiltoast.iml" filepath="$PROJECT_DIR$/utiltoast/utiltoast.iml" />
+    </modules>
+  </component>
+</project>

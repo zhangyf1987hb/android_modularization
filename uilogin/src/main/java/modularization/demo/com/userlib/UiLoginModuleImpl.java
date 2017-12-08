@@ -16,5 +16,6 @@ public class UiLoginModuleImpl implements LoginUIModule {
     public void openLoginActivity(Context context) {
         Intent intent = new Intent(context, LoginActivity.class);
         context.startActivity(intent);
+
     }
 }
